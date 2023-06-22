@@ -1,2 +1,6 @@
-package org.korolev.dens;public interface Solvable {
+package org.korolev.dens;
+
+public interface Solvable {
+    void solve();
+
 }

@@ -1,8 +1,8 @@
 package org.korolev.dens;
 
-public class WrongInputException extends Exception{
+public class WrongCalcException extends Exception{
 
-    public WrongInputException(String message) {
+    public WrongCalcException(String message) {
         super(message);
     }
 }
